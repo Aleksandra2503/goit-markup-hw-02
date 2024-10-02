@@ -18,11 +18,24 @@ body {
     color: #2e2f42;
 }
 
+.nav-menu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.nav-menu:hover,
+.nav-menu:focus {
+    color: #404bbf;
+}
+
 .contact-address {
     font-style: normal;
 }
 
-/* Стили для контактных ссылок */
 .contact-link {
     font-size: 16px;
     line-height: 1.5;
@@ -34,4 +47,34 @@ body {
 .contact-link:hover,
 .contact-link:focus {
     color: #404bbf;
+}
+
+.first-section {
+        background-color: #2e2f42;
+}
+
+
+.main-words {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.order-service {
+        background-color: #4D5AE5;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+}
+.order-service:hover,
+.order-service:focus {
+        background-color: #404BBF;
 }
