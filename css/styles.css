@@ -127,7 +127,6 @@ body {
     color: #2e2f42;
 }
 
-/* Стилі для параграфа пункту списку */
 .team-member-role {
     font-size: 16px;
     line-height: 1.5;
@@ -136,8 +135,8 @@ body {
 }
 
 .footer {
-    background-color: #2e2f42;
-    text-align: center;
+          background-color: #2e2f42;
+          text-align: center;
 }
 
 .footer-logo {
@@ -150,14 +149,14 @@ body {
     color: #4d5ae5;
     text-decoration: none;
 }
+.logo-highlight {
+    color: #f4f4fd;
+}
 
 .footer-description {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--footer-text-color, #F4F4FD);
-}
-.logo-highlight {
-    color: #f4f4fd;
 }
 .our-portfolio {
     font-size: 36px;
