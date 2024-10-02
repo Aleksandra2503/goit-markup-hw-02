@@ -98,7 +98,6 @@ body {
 
 .third-section {
     background-color: #F4F4FD;
-    padding: 20px;
 }
 
 .our-team {
@@ -112,7 +111,6 @@ body {
 
 .team-list {
     list-style-type: none;
-    gap: 20px;
     justify-content: center;
 }
 
@@ -179,10 +177,6 @@ body {
 
 .portfolio-list {
     list-style: none;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
 }
 
 .portfolio-list li {
